@@ -58,14 +58,7 @@ I'm a passionate and curious developer with a strong interest in building scalab
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daivya4&show_icons=true&theme=tokyonight" alt="Daivya's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daivya4&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
----
 
 
 
