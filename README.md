@@ -1,67 +1,60 @@
-<h1 align="center">Hi 👋, I'm Daivya Shah</h1>
-<h3 align="center">🎓 Computer Science Engineering Student at BMSCE, Bengaluru</h3>
+<a href="https://daivya4.github.io/daivyashah.github.io/">
+  <img src="./assets/cover.svg" alt="Daivya Shah — Software Engineer & AI Builder" width="100%"/>
+</a>
 
----
+<div align="center">
 
-🌟 **About Me**  
-I'm a passionate and curious developer with a strong interest in building scalable web applications, automating infrastructure using DevOps tools, and exploring the potential of Machine Learning. I enjoy solving real-world problems with code and continuously learning new technologies.
+<br/>
 
-- 🌱 Currently learning **DevOps Tools, Machine Learning**
-- 💡 Interests: Full Stack Development · Data Science · Cloud Computing · Open Source
-- 🔭 Working on improving my backend and cloud infrastructure skills
-- 📁 Check out all of my projects at: [github.com/daivya4](https://github.com/daivya4)
+**I build agents, cloud-native backends and full-stack products that ship.**
+<br/>
+<sub>CS @ BMS College · ex-intern at NatWest Group & Reliance Industries</sub>
 
----
+<br/><br/>
 
-## 🚀 Tech Stack & Tools
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-daivya4.github.io-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://daivya4.github.io/daivyashah.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-daivyashah-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daivyashah)
+[![Email](https://img.shields.io/badge/EMAIL-daivya444@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daivya444@gmail.com)
 
-### Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+<br/>
 
-### Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+<img src="./assets/skills-marquee.svg" alt="Tech stack" width="100%"/>
 
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
+</div>
 
-### DevOps & Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+<br/>
 
-### Data Science  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=seaborn&logoColor=white)  
+### ⚡ Featured
 
----
+| | |
+|---|---|
+| **[ClarifySQL](https://github.com/daivya4/ClarifySQL)** | Plain English → safe, read-only SQL. FastAPI · SQLGlot · LLMs |
+| **[Agent Eval Harness](https://github.com/daivya4/agent-eval-harness)** | Benchmarks coding agents with deterministic tests. FastAPI · React |
+| **[Agentic Research Platform](https://github.com/daivya4/agentic_research_platform)** | Multi-agent web research & reports. LangGraph |
+| **[AI Resume Analyzer](https://airesumind.vercel.app)** | ATS keyword-gap scoring + LLM suggestions. React · TypeScript |
 
-## 📫 Connect with Me
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daivyashah-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daivyashah/)
-[![GitHub](https://img.shields.io/badge/GitHub-daivya4-181717?style=flat&logo=github&logoColor=white)](https://github.com/daivya4)
+### 🛠️ Lately
 
----
+```ts
+const daivya = {
+  building:  "AI agent workflows on AWS",
+  exploring: ["LangGraph", "MCP servers", "Terraform"],
+  lookingFor: "SWE / AI-ML roles · 2027",
+};
+```
 
+<br/>
 
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daivya4/daivya4/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daivya4/daivya4/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/daivya4/daivya4/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
+<sub>✦ &nbsp;Let's build something. &nbsp;✦</sub>
 
-
-
-_Thanks for visiting my profile! Let's build something amazing together 🚀_
+</div>
