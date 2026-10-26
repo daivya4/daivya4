@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-daivya4.github.io-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://daivya4.github.io/daivyashah.github.io/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-daivya.me-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://daivya.me)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-daivyashah-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daivyashah)
 [![Email](https://img.shields.io/badge/EMAIL-daivya444@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daivya444@gmail.com)
 
