@@ -1,4 +1,4 @@
-<a href="https://daivya4.github.io/daivyashah.github.io/">
+<a href="https://daivya.me">
   <img src="./assets/cover.svg" alt="Daivya Shah — Software Engineer & AI Builder" width="100%"/>
 </a>
 
